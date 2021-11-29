@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  margin : 0px;
+}
+
+.skills{
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  font-family: 'Outfit', sans-serif;
+}
+.pro{
+  text-decoration: underline;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+}
+.name{
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 0px;
+  font-family: 'Dancing Script', cursive;
+}
+.top_container{
+  background-color: #E4F5F9;
+  position:relative;
+  padding-top: 80px;
+}
+.middle_container{
+
+}
+.bottom_container{
+
+}
+#cloud2{
+  position:absolute;
+}
+#cloud1{
+  position: relative;
+  left:220px;
+
+}
